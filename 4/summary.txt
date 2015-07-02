@@ -1,0 +1,11 @@
+Работа с файлом
+
+$filename = "PATH";
+
+$fp = fopen($filename);
+
+$file = fwrite($fp, "String");
+
+if($file){
+	w
+}
